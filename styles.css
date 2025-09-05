@@ -417,10 +417,17 @@ align-items:center;
   transform: translate(10px, -2px);
 }
 
+  .name {
+  color: bisque;
+ font-size: 25px;
+ padding-right: 40px;
+}
+
 
 
 }
   
+
 
 
 
